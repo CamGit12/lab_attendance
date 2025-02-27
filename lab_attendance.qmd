@@ -1,0 +1,11 @@
+---
+title: "lab_attendance"
+author: 
+  - name: "Cameron McLaughlin"
+  - email: "Cam12@colostate.edu"
+format: html
+---
+
+# Cameron McLaughlin
+
+Today I learned that we can resubmit our labs or activities over spring break with our corrections for regrading
