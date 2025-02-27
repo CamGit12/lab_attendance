@@ -8,4 +8,4 @@ format: html
 
 # Cameron McLaughlin
 
-Today I learned that we can resubmit our labs or activities over spring break with our corrections for regrading
+Today I learned that we can resubmit our labs or activities over spring break with our corrections for regrading.
